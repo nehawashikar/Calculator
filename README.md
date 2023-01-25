@@ -1,4 +1,4 @@
-Calculator
-Calculator created using Java Swing
+# Calculator
+Calculator created using Java Swing <br>
 
-Features: dark mode, light mode, menu of operations
+**Features:** dark mode, light mode, menu of operations
